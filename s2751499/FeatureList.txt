@@ -1,0 +1,8 @@
+IMPLEMENTED
+-----------
+- Camera class: reads ASCII scene and converts (px,py) -> world-space ray
+- PPM image read/write (.ppm, P3)
+
+PARTIALLY
+---------
+- Export of non-camera objects (present but not used)

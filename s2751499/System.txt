@@ -1,0 +1,8 @@
+USEFUL INFO
+------------
+Visual Studio: 2019 Community Edition (v16.11.51)
+C++ Toolset: v142
+Platform: Win32 Debug
+OS: Windows 11
+.NET Framework: 4.8.09032
+Build Mode: Debug
